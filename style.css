@@ -1,7 +1,15 @@
-.font-poppins{
+.font-poppins {
     font-family: 'Poppins', sans-serif;
 }
 
-.font-EB-Garamond:{
+.font-eb-garamond {
     font-family: 'EB Garamond', serif;
+}
+
+.head {
+    background-image: url(images/banner.png);
+    background-size: cover;
+    background-repeat:no-repeat;
+    /* object-fit:cover; */
+    /* width:100%; */
 }
