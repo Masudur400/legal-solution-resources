@@ -13,3 +13,20 @@
     /* object-fit:cover; */
     /* width:100%; */
 }
+.rana{
+    background-image:url(images/slider-1.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.slide-two{
+    background-image:url(images/slider-2.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.slide-three{
+    background-image:url(images/slider-3.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+ 
+ 
